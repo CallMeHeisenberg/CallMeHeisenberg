@@ -19,7 +19,7 @@
 Still haven't found what you're looking for?
 Mail me me@geovi.dev
 
-You’re always welcome to also visit my portfolio (geovi.dev)
+You’re always welcome to also visit my portfolio (https://geovi.dev)
 
 <!-- If you're here, I've got an easter egg for you, on my website if you press the letters H-E-S-O-Y-A-M a "intro" version of my portfolio will appear. Hope to bring you some hardcore nostalgia
 Best regards, Giovi

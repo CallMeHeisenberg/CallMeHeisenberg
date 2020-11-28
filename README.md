@@ -13,6 +13,9 @@
 * https://github.com/ViroCommunity/viro
 * https://github.com/ViroCommunity/viro-media-app
 
+##### Looking for articles I wrote?
+* https://geovi.medium.com/
+
 #### I love coding with these
 ![React image](/icons8-react-native-48.png) ![Typescript image](/icons8-typescript-48.png) ![JS image](/icons8-javascript-48.png) ![C# Image](/icons8-c-sharp-logo-48.png) ![Spring image](/icons8-spring-logo-48.png) ![Java Image](/icons8-java-48.png)
 
